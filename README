@@ -1,4 +1,4 @@
-This project is comprised of two parts
+This project is comprised of three parts
 
 The first part is a simple python implementation of a feed forward 
 neural network that is trained through backpropagation. 
