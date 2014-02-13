@@ -12,3 +12,13 @@ takes an image and attempts to extract the individual characters from it, and
 then converts it into the feature vector. The other script takes the feature 
 vector, feeds it to a supplied neural network and prints out its guess of the
 numerical representation of the digits.
+
+
+HOW TO TEST THIS:
+
+The script testMultipleNumbers.py reads the image from ./data/number/test.png
+and then attempts to classify it with the neural net stored under
+BestNet.pkl. To see this,draw your own digits in the ./data/number/test.png file.
+Then run testMultipleNumbers.py and press "Enter" to tell the program to
+read the file and parse the digits. Each time you press "Enter" the program
+will reload the file and attempt to parse the digits.
