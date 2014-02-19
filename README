@@ -1,3 +1,9 @@
+***************************************************************************
+I recommend you look at my other repository containing a much faster OpenCL
+implementation of the neural network over this current repository. There
+is also a nice demo available in the OpenCL repository!
+***************************************************************************
+
 This project is comprised of three parts
 
 The first part is a simple python implementation of a feed forward 
